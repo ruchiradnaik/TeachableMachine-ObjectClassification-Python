@@ -85,6 +85,21 @@ Contributions are welcome! If you find issues or have improvements, please:
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project in accordance with the terms of the license.
 
 
+## 1) Adding or Capturing an Image as Object 1  
+
+![Object 1](assets/object1_capture.png)  
+
+## 2) Adding or Capturing an Image as Object 2  
+
+![Object 2](assets/object2_capture.png)  
+
+## 3) Training the Model  
+
+![Training](assets/training.png)  
+
+## 4) The Prediction Guessing the Correct Object in Front of the Camera  
+
+![Prediction](assets/prediction.png)  
 
 
 
