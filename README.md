@@ -2,8 +2,6 @@
 Python based Object Classification using Teachable Machine
 
 
-#  Teachable Machine - Object Classification  
-
 ##  Project Overview  
 This project is a **Teachable Machine-based Object Classification** application using **Streamlit** and **TensorFlow**.  
 It allows users to:  
